@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# data-type Project
+## Basic Java App
 
-Default Structure for A Basic Project
+Create a repository named "data-types-project" based on basic-project. Create an application which asks the user for each data-type by using the helper methods of AppBasics listed above and sets the value to a variable. Once you have collected all the data types display them all at once to the user before exiting the system.
 
 *Java 7*
 
